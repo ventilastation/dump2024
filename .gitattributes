@@ -1,0 +1,2 @@
+vs-dump.svg filter=lfs diff=lfs merge=lfs -text
+vs-dump.sozi.html filter=lfs diff=lfs merge=lfs -text
