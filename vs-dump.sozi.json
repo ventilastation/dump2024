@@ -25,7 +25,7 @@
   "frames": [
     {
       "frameId": "frame4329",
-      "title": "Titulo",
+      "title": "Ventilastation Braindump 2024",
       "titleLevel": 0,
       "notes": "",
       "timeoutMs": 0,
@@ -38,14 +38,6 @@
           "link": false,
           "referenceElementId": "rect121",
           "outlineElementId": "rect121",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -65,19 +57,6 @@
           "cy": 421.14483642578125,
           "width": 40.414955139160156,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -106,13 +85,6 @@
           "deltaY": 0.000030517578125,
           "widthFactor": 1,
           "heightFactor": 1,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -143,14 +115,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
           "referenceElementId": "image1-22",
@@ -166,19 +130,6 @@
           "cy": 452.7559814453125,
           "width": 40.41495513916015,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -209,13 +160,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 429.2728761870394,
           "deltaY": -328.3847777273523,
@@ -244,14 +188,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
           "referenceElementId": "image1-22",
@@ -266,20 +202,7 @@
           "cx": 1698.2119140625,
           "cy": 452.7560119628906,
           "width": 46.126155853271484,
-          "height": 25.94596290588379,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
+          "height": 25.945962905883793,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -310,13 +233,6 @@
           "heightFactor": 1.0000000735123526,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 429.2728761870394,
           "deltaY": -328.3847777273523,
@@ -339,16 +255,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "rect67-9",
+          "referenceElementId": "image1-54-9",
           "outlineElementId": "image1-54-9",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -376,19 +284,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2025.2133058745394,
           "cy": 124.37123423553834,
@@ -405,17 +300,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 98.0909423828125,
-          "deltaY": 0.00006103515625,
-          "widthFactor": 0.8604982114368743,
-          "heightFactor": 0.9739262334492393,
-          "deltaAngle": 0
-        },
-        "layer2": {
           "deltaX": 0,
           "deltaY": 0,
           "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "heightFactor": 0.9999999268731676,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -440,16 +328,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-54-9",
+          "referenceElementId": "image1-558-3",
           "outlineElementId": "image1-558-3",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -477,19 +357,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2025.2133058745394,
           "cy": 124.37123423553834,
@@ -506,17 +373,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 44.3502197265625,
-          "deltaY": 0,
-          "widthFactor": 1.1294115633920216,
-          "heightFactor": 0.9999999268731676,
-          "deltaAngle": 0
-        },
-        "layer2": {
           "deltaX": 0,
           "deltaY": 0,
           "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "heightFactor": 0.9999999268731676,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -541,16 +401,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-558-3",
+          "referenceElementId": "rect240",
           "outlineElementId": "rect240",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -569,20 +421,7 @@
           "cx": 1696.345458984375,
           "cy": 484.9790344238281,
           "width": 40.414955139160156,
-          "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
+          "height": 26.781026840209968,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -607,17 +446,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -93.9913330078125,
-          "deltaY": 32.2230224609375,
-          "widthFactor": 1.0289583554284947,
-          "heightFactor": 1.0267717333494408,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
+          "deltaX": 0.0001220703125,
           "deltaY": 0,
           "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "heightFactor": 1.0000000000000002,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -642,16 +474,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "rect240",
+          "referenceElementId": "image1-62",
           "outlineElementId": "image1-62",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -679,19 +503,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2025.2133058745394,
           "cy": 124.37123423553834,
@@ -708,17 +519,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 48.1922995442992,
-          "deltaY": -1.039009324240908,
-          "widthFactor": 1.1605895587424393,
-          "heightFactor": 0.9854500333704622,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "deltaX": -0.6549904947632967,
+          "deltaY": 1.898338087868467,
+          "widthFactor": 1.1025000000000005,
+          "heightFactor": 1.262362455007605,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -743,15 +547,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-62",
-          "outlineElementId": "image1-48",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "image1-48",
           "outlineElementId": "image1-48",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -771,20 +567,7 @@
           "cx": 1790.336669921875,
           "cy": 484.97906494140625,
           "width": 39.39192199707031,
-          "height": 25.619558334350586,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 512.6353705006591,
-          "cy": 404.32232762573625,
-          "width": 19.616443317554605,
-          "height": 11.03726171921377,
+          "height": 25.61955833435059,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -809,17 +592,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 45.14404296875,
-          "deltaY": 2.9373779296875,
-          "widthFactor": 0.9259019723650295,
-          "heightFactor": 1.2254451421443258,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 19.73086000261219,
-          "deltaY": 0.44763280151749996,
-          "widthFactor": 2.3004215117702915,
-          "heightFactor": 0.9707554593937558,
+          "deltaX": -0.0001220703125,
+          "deltaY": 0,
+          "widthFactor": 1,
+          "heightFactor": 1.0000000744489328,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -844,15 +620,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-48",
-          "outlineElementId": "image1-02-8",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "image1-02-8",
           "outlineElementId": "image1-02-8",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -881,19 +649,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 534.5428626793869,
-          "cy": 404.37119721885256,
-          "width": 23.021500185585584,
-          "height": 12.953129097049382,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2389.1603912972296,
           "cy": 257.9535796076736,
@@ -910,17 +665,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 50.85128365971627,
-          "deltaY": 0.11343550814257242,
-          "widthFactor": 1.3565529409371118,
-          "heightFactor": 1.1735818530829154,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 41.63835218134,
-          "deltaY": 0.49650239463380785,
-          "widthFactor": 2.699732739662959,
-          "heightFactor": 1.139260906108922,
+          "deltaX": 0.3938861987787732,
+          "deltaY": 0.4814164651738224,
+          "widthFactor": 0.9999999999999998,
+          "heightFactor": 1.0002729374843493,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -945,15 +693,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-02-8",
-          "outlineElementId": "image1-05",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "image1-05",
           "outlineElementId": "image1-05",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -982,19 +722,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 493.22087273584214,
-          "cy": 418.19701202057485,
-          "width": 20.11896032270485,
-          "height": 11.320004702455554,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2079.7664819936103,
           "cy": 361.4728655050122,
@@ -1011,17 +738,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -95.522216796875,
-          "deltaY": 32.57373046875,
-          "widthFactor": 0.4917144673978864,
-          "heightFactor": 0.8741589982795106,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0.3163622377952606,
-          "deltaY": 14.322317196356096,
-          "widthFactor": 2.3593517118052545,
-          "heightFactor": 0.995623429508973,
+          "deltaX": 0,
+          "deltaY": -0.00006103515625,
+          "widthFactor": 0.9999999274106102,
+          "heightFactor": 0.9999999274106102,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1046,15 +766,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-05",
-          "outlineElementId": "rect240-3",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "rect240-3",
           "outlineElementId": "rect240-3",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -1074,20 +786,7 @@
           "cx": 1696.345458984375,
           "cy": 550.3442993164062,
           "width": 40.414955139160156,
-          "height": 26.781026840209964,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 472.1426508025181,
-          "cy": 432.48257885720636,
-          "width": 20.505759238343387,
-          "height": 11.537638490370112,
+          "height": 26.781026840209968,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -1112,17 +811,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -48.926513671875,
-          "deltaY": 33.159423828125,
-          "widthFactor": 1.5381020981382418,
-          "heightFactor": 1.0192255176676044,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -20.761859695528756,
-          "deltaY": 28.607884032987613,
-          "widthFactor": 2.404711644381209,
-          "heightFactor": 1.0147648790044417,
+          "deltaX": 0,
+          "deltaY": 0.00006103515625,
+          "widthFactor": 1,
+          "heightFactor": 1.0000000000000002,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1147,15 +839,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "rect240-3",
-          "outlineElementId": "image1-622",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "image1-622",
           "outlineElementId": "image1-622",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -1184,19 +868,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.2065773749241,
-          "cy": 432.4825788572063,
-          "width": 22.099108654025404,
-          "height": 12.43414221565557,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2072.172055700693,
           "cy": 468.43449480316923,
@@ -1213,17 +884,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 46.5721435546875,
-          "deltaY": 0.00006103515625,
-          "widthFactor": 0.9211087826576299,
-          "heightFactor": 1.077702532111205,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -0.6979331231227661,
-          "deltaY": 28.607884032987556,
-          "widthFactor": 2.5915638281469286,
-          "heightFactor": 1.0936146796006072,
+          "deltaX": 0,
+          "deltaY": 0,
+          "widthFactor": 1,
+          "heightFactor": 0.9999999999999999,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1248,15 +912,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-622",
-          "outlineElementId": "rect273",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "rect273",
           "outlineElementId": "rect273",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -1285,19 +941,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 512.2705565369166,
-          "cy": 432.48257885720636,
-          "width": 20.505759238343387,
-          "height": 11.537638490370112,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2222.3989193535895,
           "cy": 468.43449480316997,
@@ -1314,17 +957,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 46.572265625,
-          "deltaY": 0,
-          "widthFactor": 1.085648100232797,
-          "heightFactor": 0.9278998333993086,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 19.36604603886974,
-          "deltaY": 28.607884032987613,
-          "widthFactor": 2.404711644381209,
-          "heightFactor": 1.0147648790044417,
+          "deltaX": 0,
+          "deltaY": 0.00006103515625,
+          "widthFactor": 1,
+          "heightFactor": 1.0000000000000002,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1349,15 +985,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "rect273",
-          "outlineElementId": "image1-026",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "image1-026",
           "outlineElementId": "image1-026",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -1386,19 +1014,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 532.1024578522902,
-          "cy": 432.6680097403192,
-          "width": 21.164854052177933,
-          "height": 11.908480535500608,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2370.8881253494787,
           "cy": 469.8228883899813,
@@ -1415,17 +1030,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 46.0335693359375,
-          "deltaY": 0.43048095703125,
-          "widthFactor": 0.7016611295367481,
-          "heightFactor": 1.0321419366224742,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 39.1979473542433,
-          "deltaY": 28.793314916100428,
-          "widthFactor": 2.4820037336502354,
-          "heightFactor": 1.0473813874321152,
+          "deltaX": 0,
+          "deltaY": 0,
+          "widthFactor": 0.9999999327394314,
+          "heightFactor": 1.0000000690022834,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1450,15 +1058,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-026",
-          "outlineElementId": "image1-06",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "image1-06",
           "outlineElementId": "image1-06",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -1487,19 +1087,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 550.5841741157539,
-          "cy": 432.66800974031906,
-          "width": 21.16485405217793,
-          "height": 11.908480535500605,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2509.267967491776,
           "cy": 469.82288838998,
@@ -1516,17 +1103,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 42.8995361328125,
+          "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 1.2041573488359079,
+          "widthFactor": 1,
           "heightFactor": 1.0000000690022834,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 57.67966361770698,
-          "deltaY": 28.793314916100314,
-          "widthFactor": 2.482003733650235,
-          "heightFactor": 1.047381387432115,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1545,24 +1125,16 @@
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
-      "transitionDurationMs": 1000,
+      "transitionDurationMs": 2000,
       "showInFrameList": true,
       "showFrameNumber": false,
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-06",
+          "referenceElementId": "rect67-9",
           "outlineElementId": "rect67-9",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-06",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
+          "transitionTimingFunction": "easeInOut",
+          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -1588,19 +1160,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 493.44462892015474,
-          "cy": 437.3984073320655,
-          "width": 149.00033362109926,
-          "height": 83.83556854848091,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 2081.4418321084027,
           "cy": 505.24122631297064,
@@ -1617,17 +1176,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -230.52734375,
-          "deltaY": -98.01873779296875,
-          "widthFactor": 1.1835573644273387,
-          "heightFactor": 0.9688590624218117,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0.5401184221078665,
-          "deltaY": 33.52371250784677,
-          "widthFactor": 17.473278268349006,
-          "heightFactor": 7.373553144811591,
+          "deltaX": 0,
+          "deltaY": 0.000030517578125,
+          "widthFactor": 1,
+          "heightFactor": 1,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1658,14 +1210,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "image1-22",
@@ -1681,19 +1225,6 @@
           "cy": 452.7560119628906,
           "width": 41.46640396118164,
           "height": 23.324850082397457,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 330.8032183705633,
-          "cy": 437.3985028645672,
-          "width": 129.80680585880737,
-          "height": 73.03626177313731,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -1724,13 +1255,6 @@
           "heightFactor": 0.9999999999999999,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -162.1012921274836,
-          "deltaY": 33.523808040348456,
-          "widthFactor": 15.222452089699983,
-          "heightFactor": 6.423726432667671,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -732.2584850710139,
           "deltaY": 52.485929639306335,
@@ -1759,14 +1283,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-22",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "rect83",
@@ -1778,29 +1294,16 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 1047.0641407868347,
-          "cy": 419.0212544992173,
-          "width": 1610.2518414121605,
-          "height": 906.0139353400117,
+          "cx": 1054.0105784071854,
+          "cy": 437.8758708973119,
+          "width": 1610.5811796898568,
+          "height": 906.0139353400118,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": -1387.4036966773833,
-          "cy": 331.7949131035545,
-          "width": 5040.746922681037,
-          "height": 2836.194214481468,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
+          "clipWidthFactor": 1.000204525943847,
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
@@ -1819,17 +1322,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 171.495354165741,
-          "deltaY": 28.92597862031107,
-          "widthFactor": 7.9805037172175,
-          "heightFactor": 49.440986118426125,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -1880.3082071754302,
-          "deltaY": -72.07978172066424,
-          "widthFactor": 591.1287009887427,
-          "heightFactor": 249.45055101991323,
+          "deltaX": 178.4417917860917,
+          "deltaY": 47.78059501840568,
+          "widthFactor": 7.9821359372726395,
+          "heightFactor": 49.44098611842613,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1860,14 +1356,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect60",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": -10,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "rect60",
@@ -1883,19 +1371,6 @@
           "cy": 386.5949689785444,
           "width": 79.14582824707033,
           "height": 44.531682232381094,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -1924,13 +1399,6 @@
           "deltaY": -3.5003069003618634,
           "widthFactor": 1.0000000000000002,
           "heightFactor": 2.4300843477148724,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -1961,14 +1429,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect60",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "rect60",
@@ -1984,19 +1444,6 @@
           "cy": 423.33526611328125,
           "width": 40.414955139160156,
           "height": 26.781026840209968,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2027,13 +1474,6 @@
           "heightFactor": 1.0000000000000002,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -1.1019484686325995,
           "deltaY": 9.658254225072483,
@@ -2062,14 +1502,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1-0",
-          "outlineElementId": "",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "image1-0",
@@ -2085,19 +1517,6 @@
           "cy": 450.4108581542969,
           "width": 32.65947341918945,
           "height": 24.494606018066406,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 532.8158125801975,
-          "cy": 376.77140718681056,
-          "width": 68.17574533699738,
-          "height": 75.20916516900338,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2126,13 +1545,6 @@
           "deltaY": 0.000030517578125,
           "widthFactor": 1,
           "heightFactor": 1,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -2.1864457205837198,
-          "deltaY": 3.2009115813418134,
-          "widthFactor": 2.2868683693962963,
-          "heightFactor": 1.8920965960495193,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -2163,14 +1575,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1-0",
-          "outlineElementId": "",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "image1-78",
@@ -2194,19 +1598,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 381.1932598013479,
-          "cy": 404.1400990241479,
-          "width": 133.66869093355623,
-          "height": 75.20916516900338,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.9606487655224412,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 381.1932598013479,
           "cy": 404.1400990241479,
@@ -2227,13 +1618,6 @@
           "deltaY": 0.000030517578125,
           "widthFactor": 1,
           "heightFactor": 1,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -153.80899849943336,
-          "deltaY": 30.56960341867915,
-          "widthFactor": 4.483745645369167,
-          "heightFactor": 1.8920965960495193,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -2264,14 +1648,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1-0",
-          "outlineElementId": "rect84",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "rect84",
@@ -2287,19 +1663,6 @@
           "cy": 477.6671142578125,
           "width": 40.414955139160156,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 534.5877235767568,
-          "cy": 460.4601409785515,
-          "width": 146.14584112710236,
-          "height": 82.2294781771657,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2330,13 +1693,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -0.4145347240244064,
-          "deltaY": 86.88964537308277,
-          "widthFactor": 4.902275724897949,
-          "heightFactor": 2.0687121762929306,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -213.2673179271494,
           "deltaY": -17.207003796839103,
@@ -2365,14 +1721,6 @@
           "transitionRelativeZoom": -5,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "rect23",
@@ -2388,19 +1736,6 @@
           "cy": 389.97738272978324,
           "width": 70.323510809603,
           "height": 39.567773895329445,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2431,13 +1766,6 @@
           "heightFactor": 1.2231600272990517,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -886.9471389941002,
           "deltaY": -225.34936519070416,
@@ -2450,7 +1778,7 @@
     {
       "frameId": "frame8714",
       "title": "primeras reuniones de PyAr",
-      "titleLevel": 0,
+      "titleLevel": 1,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -2462,14 +1790,6 @@
           "link": false,
           "referenceElementId": "image1-72",
           "outlineElementId": "image1-72",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -2489,19 +1809,6 @@
           "cy": 397.091064453125,
           "width": 9.654763221740723,
           "height": 7.2410712242126465,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2532,13 +1839,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -886.9471389941002,
           "deltaY": -225.34936519070416,
@@ -2551,7 +1851,7 @@
     {
       "frameId": "frame2899",
       "title": "PyWeek",
-      "titleLevel": 0,
+      "titleLevel": 1,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -2563,14 +1863,6 @@
           "link": false,
           "referenceElementId": "rect12",
           "outlineElementId": "rect12",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -2590,19 +1882,6 @@
           "cy": 428.3110046386719,
           "width": 32.62049865722656,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2633,13 +1912,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -886.9471389941002,
           "deltaY": -225.34936519070416,
@@ -2652,7 +1924,7 @@
     {
       "frameId": "frame5157",
       "title": "STIM - pyweek 2",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -2664,14 +1936,6 @@
           "link": false,
           "referenceElementId": "image1-04",
           "outlineElementId": "image1-04",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -2691,19 +1955,6 @@
           "cy": 400.8425034385048,
           "width": 62.267084998380106,
           "height": 35.03479721039077,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2734,13 +1985,6 @@
           "heightFactor": 1.3400956406250009,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -886.9471389941002,
           "deltaY": -225.34936519070416,
@@ -2753,7 +1997,7 @@
     {
       "frameId": "frame5777",
       "title": "Typus Pocus - pyweek 3",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -2765,14 +2009,6 @@
           "link": false,
           "referenceElementId": "image1-7",
           "outlineElementId": "image1-04",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -2792,19 +2028,6 @@
           "cy": 442.09460352490873,
           "width": 56.47808163118378,
           "height": 31.777593841624288,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2835,13 +2058,6 @@
           "heightFactor": 1.2541427059701413,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -886.9471389941002,
           "deltaY": -225.34936519070416,
@@ -2854,7 +2070,7 @@
     {
       "frameId": "frame2873",
       "title": "Charlas PyWeek",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -2866,14 +2082,6 @@
           "link": false,
           "referenceElementId": "image1-1",
           "outlineElementId": "image1-04",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -2893,19 +2101,6 @@
           "cy": 390.9161121149524,
           "width": 59.301985712743154,
           "height": 33.36647353370561,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -2936,13 +2131,6 @@
           "heightFactor": 1.3609531687651073,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -886.9471389941002,
           "deltaY": -225.34936519070416,
@@ -2955,7 +2143,7 @@
     {
       "frameId": "frame4271",
       "title": "Charlas PyWeek",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -2967,14 +2155,6 @@
           "link": false,
           "referenceElementId": "image1-99",
           "outlineElementId": "image1-04",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3002,19 +2182,6 @@
           "clipWidthFactor": 1.0000000000000002,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -363.8848831347252,
           "cy": 164.7459106882021,
@@ -3037,13 +2204,6 @@
           "heightFactor": 1.3290852240394342,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -886.9471389941002,
           "deltaY": -225.34936519070416,
@@ -3056,7 +2216,7 @@
     {
       "frameId": "frame3846",
       "title": "Juegos Argentinos PyWeek",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3068,14 +2228,6 @@
           "link": false,
           "referenceElementId": "image1-10",
           "outlineElementId": "image1-04",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3103,19 +2255,6 @@
           "clipWidthFactor": 1.0000000000000002,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 490.1999928621918,
-          "cy": 404.3419144652938,
-          "width": 27.07985015692764,
-          "height": 15.236574166919974,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -588.1856559565574,
           "cy": 203.4950484942638,
@@ -3136,13 +2275,6 @@
           "deltaY": -7.960804710623449,
           "widthFactor": 3.421754097383263,
           "heightFactor": 2.360856837203686,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -2.7045176358550975,
-          "deltaY": 0.46721964107507574,
-          "widthFactor": 3.1756556898754966,
-          "heightFactor": 1.3400957530296793,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -3173,14 +2305,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "image1-49",
@@ -3202,19 +2326,6 @@
           "clipXOffset": 0,
           "clipYOffset": 0,
           "clipWidthFactor": 1.0000000000000002,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 490.2665281205626,
-          "cy": 403.5213129453867,
-          "width": 27.07985015692764,
-          "height": 15.236574166919974,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
@@ -3239,13 +2350,6 @@
           "heightFactor": 1.3405137207395206,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -2.6379823774842635,
-          "deltaY": -0.3533818788320673,
-          "widthFactor": 3.1756556898754966,
-          "heightFactor": 1.3400957530296793,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -1061.940067365135,
           "deltaY": -258.99421478757455,
@@ -3258,7 +2362,7 @@
     {
       "frameId": "frame6848",
       "title": "Charla con Lucio, foto cholula con GvR BDFL",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3270,14 +2374,6 @@
           "link": false,
           "referenceElementId": "image1-39",
           "outlineElementId": "image1-04",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3297,19 +2393,6 @@
           "cy": 452.3530216440467,
           "width": 46.464657529473136,
           "height": 26.14350509643575,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 490.2665281205626,
-          "cy": 403.5213129453867,
-          "width": 27.07985015692764,
-          "height": 15.236574166919974,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -3340,13 +2423,6 @@
           "heightFactor": 2.0739589106739533,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -2.6379823774842635,
-          "deltaY": -0.3533818788320673,
-          "widthFactor": 3.1756556898754966,
-          "heightFactor": 1.3400957530296793,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -1061.940067365135,
           "deltaY": -258.99421478757455,
@@ -3358,7 +2434,7 @@
     },
     {
       "frameId": "frame3973",
-      "title": "A un toque de Moscú",
+      "title": "Moscú 2007",
       "titleLevel": 1,
       "notes": "",
       "timeoutMs": 0,
@@ -3371,14 +2447,6 @@
           "link": false,
           "referenceElementId": "image1-0",
           "outlineElementId": "image1-0",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3398,19 +2466,6 @@
           "cy": 373.57049560546875,
           "width": 29.81183624267578,
           "height": 39.749114990234375,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 490.2665281205626,
-          "cy": 403.5213129453867,
-          "width": 27.07985015692764,
-          "height": 15.236574166919974,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -3441,13 +2496,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -2.6379823774842635,
-          "deltaY": -0.3533818788320673,
-          "widthFactor": 3.1756556898754966,
-          "heightFactor": 1.3400957530296793,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -1061.940067365135,
           "deltaY": -258.99421478757455,
@@ -3460,7 +2508,7 @@
     {
       "frameId": "frame8284",
       "title": "Subte de Moscú",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3470,15 +2518,7 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-64",
-          "outlineElementId": "image1-64",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
+          "referenceElementId": "image1-21",
           "outlineElementId": "image1-64",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -3507,19 +2547,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -161.04269365906725,
           "cy": 1085.393185235819,
@@ -3536,17 +2563,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1.0000000000000002,
-          "heightFactor": 1.0000000000000002,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "deltaX": 63.178802490234375,
+          "deltaY": -12.1568603515625,
+          "widthFactor": 1.34327470331903,
+          "heightFactor": 1.136911047521318,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -3561,7 +2581,7 @@
     {
       "frameId": "frame4086",
       "title": "Subte Arbatskaya",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3571,16 +2591,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-24",
+          "referenceElementId": "image1-64",
           "outlineElementId": "image1-24",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-64",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3608,19 +2620,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 488.8976245199688,
-          "cy": 404.2135642293042,
-          "width": 62.067512602985396,
-          "height": 34.92250709111464,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -372.62120911491286,
           "cy": 1103.286752972368,
@@ -3638,16 +2637,9 @@
       "cameraOffsets": {
         "layer1": {
           "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -4.00688597807806,
-          "deltaY": 0.33886940508546104,
-          "widthFactor": 7.278661012223723,
-          "heightFactor": 3.0715240135513984,
+          "deltaY": 27.524017333984375,
+          "widthFactor": 0.829468012542504,
+          "heightFactor": 0.9824830660644874,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -3662,7 +2654,7 @@
     {
       "frameId": "frame4914",
       "title": "Subte Moscu",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3672,16 +2664,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-999",
+          "referenceElementId": "image1-24",
           "outlineElementId": "image1-24",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-64",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3709,19 +2693,6 @@
           "clipWidthFactor": 1.1848617176128093,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 488.8976245199688,
-          "cy": 404.2135642293042,
-          "width": 62.067512602985396,
-          "height": 34.92250709111464,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -372.62120911491286,
           "cy": 1103.286752972368,
@@ -3739,16 +2710,9 @@
       "cameraOffsets": {
         "layer1": {
           "deltaX": 0.36558178559528187,
-          "deltaY": -14.205117997410639,
-          "widthFactor": 1.0324302976313362,
-          "heightFactor": 0.40850960627198246,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -4.00688597807806,
-          "deltaY": 0.33886940508546104,
-          "widthFactor": 7.278661012223723,
-          "heightFactor": 3.0715240135513984,
+          "deltaY": 25.70235270571436,
+          "widthFactor": 0.9747886673662185,
+          "heightFactor": 0.8227024747918822,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -3763,7 +2727,7 @@
     {
       "frameId": "frame3124",
       "title": "Subte Moscu",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3775,14 +2739,6 @@
           "link": false,
           "referenceElementId": "image1-999",
           "outlineElementId": "image1-24",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-64",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3802,19 +2758,6 @@
           "cy": 494.6963657642157,
           "width": 36.3561508850004,
           "height": 20.45591781981595,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 488.8976245199688,
-          "cy": 404.2135642293042,
-          "width": 62.067512602985396,
-          "height": 34.92250709111464,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -3845,13 +2788,6 @@
           "heightFactor": 0.40850960627198246,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -4.00688597807806,
-          "deltaY": 0.33886940508546104,
-          "widthFactor": 7.278661012223723,
-          "heightFactor": 3.0715240135513984,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -916.1739434899129,
           "deltaY": 690.9076330993212,
@@ -3864,7 +2800,7 @@
     {
       "frameId": "frame3533",
       "title": "De Arbatskaya a Pervomaiskaya",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3876,14 +2812,6 @@
           "link": false,
           "referenceElementId": "image1-999",
           "outlineElementId": "image1-24",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-64",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -3903,19 +2831,6 @@
           "cy": 475.13342967390696,
           "width": 40.08265635071302,
           "height": 22.55264939634713,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 488.8976245199688,
-          "cy": 404.2135642293042,
-          "width": 62.067512602985396,
-          "height": 34.92250709111464,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -3946,13 +2861,6 @@
           "heightFactor": 0.45038184091486155,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -4.00688597807806,
-          "deltaY": 0.33886940508546104,
-          "widthFactor": 7.278661012223723,
-          "heightFactor": 3.0715240135513984,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -916.1739434899129,
           "deltaY": 690.9076330993212,
@@ -3965,7 +2873,7 @@
     {
       "frameId": "frame6658",
       "title": "Pervomaiskaya",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -3976,14 +2884,6 @@
         "layer1": {
           "link": false,
           "referenceElementId": "image1-34",
-          "outlineElementId": "image1-34",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
           "outlineElementId": "image1-34",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -4004,19 +2904,6 @@
           "cy": 516.6273193359375,
           "width": 33.99470138549805,
           "height": 18.682842254638672,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 489.9305328993449,
-          "cy": 468.46635468836666,
-          "width": 52.64038735899777,
-          "height": 29.618301487003652,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -4047,13 +2934,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -2.9739775987019925,
-          "deltaY": 64.59165986414791,
-          "widthFactor": 6.173141456290006,
-          "heightFactor": 2.6050055346995182,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -861.632591890442,
           "deltaY": 3979.446274490114,
@@ -4066,7 +2946,7 @@
     {
       "frameId": "frame8713",
       "title": "Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo",
-      "titleLevel": 1,
+      "titleLevel": 2,
       "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
       "timeoutMs": 0,
       "timeoutEnable": false,
@@ -4078,14 +2958,6 @@
           "link": false,
           "referenceElementId": "image1-60",
           "outlineElementId": "image1-60",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-34",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -4103,21 +2975,8 @@
         "layer1": {
           "cx": 543.552734375,
           "cy": 538.1491088867188,
-          "width": 14.613441467285154,
+          "width": 14.613441467285153,
           "height": 19.484586715698242,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 489.9305328993449,
-          "cy": 468.46635468836666,
-          "width": 52.64038735899777,
-          "height": 29.618301487003652,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -4148,13 +3007,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -2.9739775987019925,
-          "deltaY": 64.59165986414791,
-          "widthFactor": 6.173141456290006,
-          "heightFactor": 2.6050055346995182,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -861.632591890442,
           "deltaY": 3979.446274490114,
@@ -4167,8 +3019,8 @@
     {
       "frameId": "frame8372",
       "title": "Museo 15kopek",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -4179,14 +3031,6 @@
           "link": false,
           "referenceElementId": "image1-2",
           "outlineElementId": "image1-2",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-34",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -4206,19 +3050,6 @@
           "cy": 560.641845703125,
           "width": 31.76790618896485,
           "height": 20.62470054626465,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 489.9305328993449,
-          "cy": 468.46635468836666,
-          "width": 52.64038735899777,
-          "height": 29.618301487003652,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -4249,13 +3080,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -2.9739775987019925,
-          "deltaY": 64.59165986414791,
-          "widthFactor": 6.173141456290006,
-          "heightFactor": 2.6050055346995182,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -861.632591890442,
           "deltaY": 3979.446274490114,
@@ -4268,8 +3092,8 @@
     {
       "frameId": "frame1604",
       "title": "Морской бой",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -4278,16 +3102,8 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-2",
+          "referenceElementId": "rect84",
           "outlineElementId": "image1-2",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-34",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -4315,19 +3131,6 @@
           "clipWidthFactor": 1.1538729355880128,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 470.0873829916031,
-          "cy": 468.0161828517388,
-          "width": 16.322094904873705,
-          "height": 9.183684848196753,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1.0000000000000002
-        },
         "__sozi_auto__": {
           "cx": -1365.8720776725977,
           "cy": 4472.302842820184,
@@ -4344,17 +3147,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -13.8177139281172,
-          "deltaY": -0.3134771022870382,
-          "widthFactor": 0.35777896986948243,
-          "heightFactor": 0.3100679102826504,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -22.817127506443796,
-          "deltaY": 64.14148802752004,
-          "widthFactor": 1.9140930712310418,
-          "heightFactor": 0.8077286224190191,
+          "deltaX": -218.12002105702345,
+          "deltaY": 82.66125434302546,
+          "widthFactor": 0.281229775266661,
+          "heightFactor": 0.2387906123518743,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -4368,9 +3164,9 @@
     },
     {
       "frameId": "frame1831",
-      "title": "Un juego electromecánico",
+      "title": "Cual juego electromecánico?",
       "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 3000,
@@ -4379,18 +3175,10 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "rect84",
+          "referenceElementId": "rect3",
           "outlineElementId": "rect84",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -7,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -4407,20 +3195,7 @@
           "cx": 747.8550415039062,
           "cy": 477.6671142578125,
           "width": 40.414955139160156,
-          "height": 26.781026840209968,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
+          "height": 26.78102684020997,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -4445,17 +3220,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -0.00006103515625,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000000000002,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "deltaX": 716.3590850830078,
+          "deltaY": 87.57183837890625,
+          "widthFactor": 0.3546044119063648,
+          "heightFactor": 1.4614348903442789,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -4470,8 +3238,8 @@
     {
       "frameId": "frame1523",
       "title": "1989, CZ Spectrum",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 3000,
@@ -4480,18 +3248,10 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "rect3",
+          "referenceElementId": "image1-4",
           "outlineElementId": "rect84",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -7,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -4517,19 +3277,6 @@
           "clipWidthFactor": 1.177725424365719,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -161.04257158875362,
           "cy": 1085.3931547182392,
@@ -4546,17 +3293,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -0.7991921560998207,
-          "deltaY": 13.660418556694253,
-          "widthFactor": 0.9572078893866629,
-          "heightFactor": 3.34963553894264,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "deltaX": -32.45504924228146,
+          "deltaY": 14.844256447319253,
+          "widthFactor": 3.295878222700856,
+          "heightFactor": 2.4725834987665714,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -4571,8 +3311,8 @@
     {
       "frameId": "frame4895",
       "title": "Deflektor, 1987",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -4583,14 +3323,6 @@
           "link": false,
           "referenceElementId": "image1-4",
           "outlineElementId": "image1-4",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
@@ -4610,19 +3342,6 @@
           "cy": 388.9114074707031,
           "width": 33.10038757324219,
           "height": 24.82529067993164,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -4653,13 +3372,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -908.8976741278161,
           "deltaY": 607.7260404604267,
@@ -4672,8 +3384,8 @@
     {
       "frameId": "frame4489",
       "title": "Primer prototipo",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 3000,
@@ -4686,14 +3398,6 @@
           "outlineElementId": "image1-55",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -7,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect84",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -4710,20 +3414,7 @@
           "cx": 748.830322265625,
           "cy": 504.4878234863281,
           "width": 32.65947341918945,
-          "height": 24.494606018066406,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
+          "height": 24.494606018066403,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -4751,14 +3442,7 @@
           "deltaX": 0,
           "deltaY": 0,
           "widthFactor": 1,
-          "heightFactor": 1,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
+          "heightFactor": 0.9999999999999999,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -4772,9 +3456,9 @@
     },
     {
       "frameId": "frame2286",
-      "title": "Reflektor, 2013",
+      "title": "2013: Reflektor",
       "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Arduino + Breadboard, gran combinación</span><br>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 2000,
@@ -4787,14 +3471,6 @@
           "outlineElementId": "image1-55",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -4820,19 +3496,6 @@
           "clipWidthFactor": 1.3329694842123163,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -139.17918986730933,
           "cy": 1686.648122999812,
@@ -4855,13 +3518,6 @@
           "heightFactor": 1.966699714205642,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -888.0095121329343,
           "deltaY": 1182.1602995134838,
@@ -4874,8 +3530,8 @@
     {
       "frameId": "frame8150",
       "title": "Reflektor, Componentes",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -4888,14 +3544,6 @@
           "outlineElementId": "rect385",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -4913,19 +3561,6 @@
           "cy": 438.7907409667969,
           "width": 40.41495513916016,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -4956,13 +3591,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 585.3891222980428,
           "deltaY": -1055.3911323658751,
@@ -4975,8 +3603,8 @@
     {
       "frameId": "frame8203",
       "title": "Reflektor, desarmado",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -4989,14 +3617,6 @@
           "outlineElementId": "image1-57",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-57",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -5013,20 +3633,7 @@
           "cx": 825.2084350585938,
           "cy": 474.5326843261719,
           "width": 40.52675247192383,
-          "height": 30.39506721496582,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.90451049804676,
-          "cy": 419.04877844759653,
-          "width": 22.934345240773524,
-          "height": 12.904091056848001,
+          "height": 30.395067214965824,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -5057,13 +3664,6 @@
           "heightFactor": 1.0000000627519177,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -1.1368683772161603e-13,
-          "deltaY": 15.174083623377783,
-          "widthFactor": 2.689512073935885,
-          "heightFactor": 1.1349478847767747,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 583.4086535480451,
           "deltaY": 319.60357366086873,
@@ -5076,8 +3676,8 @@
     {
       "frameId": "frame5332",
       "title": "Museo del juguete, San Isidro",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -5092,14 +3692,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-57",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
           "referenceElementId": "image1-57",
@@ -5111,23 +3703,10 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 818.2661795618681,
-          "cy": 519.753852230231,
-          "width": 93.13685843035671,
-          "height": 52.4037852102007,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 492.90451049804676,
-          "cy": 419.04877844759653,
-          "width": 22.934345240773524,
-          "height": 12.904091056848001,
+          "cx": 820.9619939404118,
+          "cy": 518.519179661132,
+          "width": 80.47157528062552,
+          "height": 45.26835996993906,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -5152,17 +3731,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -3.975397586569443,
-          "deltaY": 5.135321956793518,
-          "widthFactor": 3.8412737716208794,
-          "heightFactor": 1.4774554437890646,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": -1.1368683772161603e-13,
-          "deltaY": 15.174083623377783,
-          "widthFactor": 2.689512073935885,
-          "heightFactor": 1.1349478847767747,
+          "deltaX": -1.279583208025656,
+          "deltaY": 3.9006493876944432,
+          "widthFactor": 3.3189153756739826,
+          "heightFactor": 1.276281562500002,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -5177,11 +3749,11 @@
     {
       "frameId": "frame4486",
       "title": "Super Hexagon, 2012",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
-      "transitionDurationMs": 2000,
+      "transitionDurationMs": 1000,
       "showInFrameList": true,
       "showFrameNumber": false,
       "layerProperties": {
@@ -5193,28 +3765,20 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-57",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "image1-76",
           "outlineElementId": "image1-57",
-          "transitionTimingFunction": "easeInOut",
+          "transitionTimingFunction": "linear",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
         }
       },
       "cameraStates": {
         "layer1": {
-          "cx": 882.4300013938056,
-          "cy": 402.01436757869783,
-          "width": 53.72527324681264,
+          "cx": 880.1755458273993,
+          "cy": 517.3132567388541,
+          "width": 53.72527324681265,
           "height": 30.22871639685527,
           "opacity": 1,
           "angle": 0,
@@ -5224,22 +3788,9 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.91747520168195,
-          "cy": 402.0967876282578,
-          "width": 21.842233562641486,
-          "height": 12.28961053033145,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 1409.8568000089901,
-          "cy": -826.8476767547431,
+          "cx": 1407.602344442584,
+          "cy": -711.5487875945869,
           "width": 2088.598919221272,
           "height": 1175.1576228542292,
           "opacity": 1,
@@ -5255,15 +3806,8 @@
         "layer1": {
           "deltaX": -0.016531809319417334,
           "deltaY": 3.6751952154165792,
-          "widthFactor": 1.5513282159785204,
+          "widthFactor": 1.5513282159785207,
           "heightFactor": 1.5517518049719783,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0.012964703635077512,
-          "deltaY": -1.7779071959609496,
-          "widthFactor": 2.5614400704151326,
-          "heightFactor": 1.0809027474064539,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -5278,8 +3822,8 @@
     {
       "frameId": "frame4566",
       "title": "Monkeylectric",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -5294,14 +3838,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-57",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
           "referenceElementId": "image1-76",
@@ -5313,8 +3849,8 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 882.7188753450538,
-          "cy": 433.3521761276714,
+          "cx": 880.4644197786475,
+          "cy": 548.6510652878276,
           "width": 48.730406573072635,
           "height": 27.418336867895903,
           "opacity": 1,
@@ -5325,22 +3861,9 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.91747520168195,
-          "cy": 402.0967876282578,
-          "width": 21.842233562641486,
-          "height": 12.28961053033145,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 1409.8568000089901,
-          "cy": -826.8476767547431,
+          "cx": 1407.602344442584,
+          "cy": -711.5487875945869,
           "width": 2088.598919221272,
           "height": 1175.1576228542292,
           "opacity": 1,
@@ -5355,16 +3878,9 @@
       "cameraOffsets": {
         "layer1": {
           "deltaX": 8.043887552085039,
-          "deltaY": 2.9292024948588846,
+          "deltaY": 2.9292024948588278,
           "widthFactor": 2.587132067908162,
           "heightFactor": 1.4047110586446125,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 0.012964703635077512,
-          "deltaY": -1.7779071959609496,
-          "widthFactor": 2.5614400704151326,
-          "heightFactor": 1.0809027474064539,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -5379,8 +3895,8 @@
     {
       "frameId": "frame1576",
       "title": "Eureka!",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 3000,
@@ -5395,14 +3911,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "image1-76",
@@ -5414,8 +3922,8 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 894.1700288859516,
-          "cy": 414.4415304871835,
+          "cx": 891.9155733195454,
+          "cy": 529.7404196473398,
           "width": 91.88844935957736,
           "height": 51.70136339887768,
           "opacity": 1,
@@ -5426,22 +3934,9 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 492.9045104980469,
-          "cy": 403.87469482421875,
-          "width": 8.527325630187988,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 1930.6392213036768,
-          "cy": -1247.9884162230078,
+          "cx": 1928.3847657372705,
+          "cy": -1132.6895270628515,
           "width": 1129.759949852755,
           "height": 635.6634607279628,
           "opacity": 1,
@@ -5461,13 +3956,6 @@
           "heightFactor": 2.6540221860716127,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 1048.1926881005518,
           "deltaY": -1646.327588586289,
@@ -5480,8 +3968,8 @@
     {
       "frameId": "frame4755",
       "title": "Falta terminarlo",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -5496,14 +3984,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "image1-83",
@@ -5515,65 +3995,45 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 821.7759940729885,
-          "cy": 520.1376969200238,
-          "width": 88.701769933673,
-          "height": 49.90836686685778,
+          "cx": 823.6429555429092,
+          "cy": 517.1523262180389,
+          "width": 72.99009095748345,
+          "height": 41.05973693418508,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
+          "clipWidthFactor": 1.000204525943847,
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 2024.7388321731696,
+          "cy": -776.1857692855506,
+          "width": 929.6464045930004,
+          "height": 522.9619022756681,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1,
+          "clipWidthFactor": 1.0002045259438468,
           "clipHeightFactor": 1
         }
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -0.4655830754489898,
-          "deltaY": 5.519166646586314,
-          "widthFactor": 3.658355972972264,
-          "heightFactor": 1.4071004226562511,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
+          "deltaX": 1.4013783944717488,
+          "deltaY": 2.5337959446013656,
+          "widthFactor": 3.0103540822439747,
+          "heightFactor": 1.1576250000000015,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 1202.497255024732,
+          "deltaY": -1290.804299558988,
+          "widthFactor": 38.34170929777481,
+          "heightFactor": 14.744219454992141,
           "deltaAngle": 0
         }
       }
@@ -5581,8 +4041,8 @@
     {
       "frameId": "frame4660",
       "title": "Reflektor, Aprendizajes",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -5595,14 +4055,6 @@
           "outlineElementId": "rect171",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -5628,30 +4080,17 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 2024.7388321731696,
+          "cy": -776.1857692855506,
+          "width": 929.6464045930004,
+          "height": 522.9619022756681,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1,
+          "clipWidthFactor": 1.0002045259438468,
           "clipHeightFactor": 1
         }
       },
@@ -5663,18 +4102,11 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 1202.497255024732,
+          "deltaY": -1290.804299558988,
+          "widthFactor": 38.34170929777481,
+          "heightFactor": 14.744219454992141,
           "deltaAngle": 0
         }
       }
@@ -5682,8 +4114,8 @@
     {
       "frameId": "frame3404",
       "title": "PyCamp 2013, Villa Giardino",
-      "titleLevel": 0,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 1,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 2000,
@@ -5692,23 +4124,15 @@
       "layerProperties": {
         "layer1": {
           "link": false,
-          "referenceElementId": "image1-96",
+          "referenceElementId": "image1-90",
           "outlineElementId": "rect171",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -2,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
-          "link": true,
-          "referenceElementId": "image1-83",
+          "link": false,
+          "referenceElementId": "image1-90",
           "outlineElementId": "image1-55",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
@@ -5717,65 +4141,45 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 948.8049254718862,
-          "cy": 403.6265273306234,
-          "width": 47.597720191989154,
-          "height": 26.781026840210114,
+          "cx": 946.8330292752395,
+          "cy": 401.678367516547,
+          "width": 49.98782791866821,
+          "height": 28.120078182220624,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
           "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1998.4887977095968,
+          "cy": -1387.8594831697292,
+          "width": 976.1287248226508,
+          "height": 549.1099973894518,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1,
+          "clipWidthFactor": 1.0002045259438468,
           "clipHeightFactor": 1
         }
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -4.270697086707514,
-          "deltaY": 5.755830309139014,
-          "widthFactor": 1.901836509322469,
-          "heightFactor": 1.4267667109164168,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
+          "deltaX": -5.614968771635517,
+          "deltaY": 4.0136641474063595,
+          "widthFactor": 1.9973367584410602,
+          "heightFactor": 1.498105198691498,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 1046.0407996627218,
+          "deltaY": -1785.5241865388698,
+          "widthFactor": 39.002650529857675,
+          "heightFactor": 29.253991984372586,
           "deltaAngle": 0
         }
       }
@@ -5783,11 +4187,11 @@
     {
       "frameId": "frame3203",
       "title": "Manos a la obra",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
-      "transitionDurationMs": 1000,
+      "transitionDurationMs": 2000,
       "showInFrameList": true,
       "showFrameNumber": false,
       "layerProperties": {
@@ -5799,29 +4203,21 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
-          "link": true,
-          "referenceElementId": "image1-83",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
+          "link": false,
+          "referenceElementId": "image1-393",
+          "outlineElementId": "image1-393",
+          "transitionTimingFunction": "linear",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
         }
       },
       "cameraStates": {
         "layer1": {
-          "cx": 953.3695678710938,
-          "cy": 427.7425537109375,
-          "width": 25.017461776733395,
-          "height": 18.76309776306152,
+          "cx": 952.447998046875,
+          "cy": 446.81048583984375,
+          "width": 25.01746368408203,
+          "height": 18.763097763061523,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -5830,24 +4226,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1998.4887977096032,
+          "cy": -1387.8594831697374,
+          "width": 976.128724822651,
+          "height": 549.1099973894519,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -5861,22 +4244,15 @@
         "layer1": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 0.9999999237593122,
-          "heightFactor": 0.9999999999999998,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
+          "widthFactor": 1,
+          "heightFactor": 1,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 1046.0407996627282,
+          "deltaY": -1834.669969009581,
+          "widthFactor": 39.01789314652774,
+          "heightFactor": 29.265423243195592,
           "deltaAngle": 0
         }
       }
@@ -5884,8 +4260,8 @@
     {
       "frameId": "frame5994",
       "title": "Cable ethernet, 7 leds, cinta de pintor",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -5900,18 +4276,10 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
-          "referenceElementId": "image1-83",
-          "outlineElementId": "image1-55",
+          "referenceElementId": "image1-393",
+          "outlineElementId": "image1-393",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
@@ -5919,8 +4287,8 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 952.194091796875,
-          "cy": 452.6036071777344,
+          "cx": 950.3773803710938,
+          "cy": 472.0346374511719,
           "width": 22.23118019104004,
           "height": 29.641572952270508,
           "opacity": 1,
@@ -5931,24 +4299,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1998.4887977096032,
+          "cy": -1387.8594831697374,
+          "width": 976.128724822651,
+          "height": 549.1099973894519,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -5960,24 +4315,17 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -0.00006103515625,
-          "deltaY": 0,
+          "deltaX": -2.07061767578125,
+          "deltaY": 0.224609375,
           "widthFactor": 1,
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 1046.0407996627282,
+          "deltaY": -1834.669969009581,
+          "widthFactor": 39.01789314652774,
+          "heightFactor": 29.265423243195592,
           "deltaAngle": 0
         }
       }
@@ -5985,8 +4333,8 @@
     {
       "frameId": "frame9544",
       "title": "Más un fisa motorizado",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6001,18 +4349,10 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
-          "referenceElementId": "image1-83",
-          "outlineElementId": "image1-55",
+          "referenceElementId": "image1-393",
+          "outlineElementId": "image1-393",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
@@ -6020,8 +4360,8 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 954.2647094726562,
-          "cy": 477.79302978515625,
+          "cx": 952.447998046875,
+          "cy": 497.2239990234375,
           "width": 26.122697830200195,
           "height": 19.592021942138672,
           "opacity": 1,
@@ -6032,24 +4372,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1998.4887977096032,
+          "cy": -1387.8594831697374,
+          "width": 976.128724822651,
+          "height": 549.1099973894519,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6062,23 +4389,16 @@
       "cameraOffsets": {
         "layer1": {
           "deltaX": 0,
-          "deltaY": 0,
+          "deltaY": -0.00006103515625,
           "widthFactor": 1,
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 1046.0407996627282,
+          "deltaY": -1834.669969009581,
+          "widthFactor": 39.01789314652774,
+          "heightFactor": 29.265423243195592,
           "deltaAngle": 0
         }
       }
@@ -6086,8 +4406,8 @@
     {
       "frameId": "frame2687",
       "title": "Hola mundo",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6102,18 +4422,10 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
-          "referenceElementId": "image1-83",
-          "outlineElementId": "image1-55",
+          "referenceElementId": "image1-393",
+          "outlineElementId": "image1-393",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
@@ -6121,8 +4433,8 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 954.3567504882812,
-          "cy": 498.00042724609375,
+          "cx": 952.5400390625,
+          "cy": 517.431396484375,
           "width": 26.016847610473633,
           "height": 19.512636184692383,
           "opacity": 1,
@@ -6133,24 +4445,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1998.4887977096032,
+          "cy": -1387.8594831697374,
+          "width": 976.128724822651,
+          "height": 549.1099973894519,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6168,18 +4467,11 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 1046.0407996627282,
+          "deltaY": -1834.669969009581,
+          "widthFactor": 39.01789314652774,
+          "heightFactor": 29.265423243195592,
           "deltaAngle": 0
         }
       }
@@ -6187,8 +4479,8 @@
     {
       "frameId": "frame7252",
       "title": "De vuelta en el club de jaqueo",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6203,18 +4495,10 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
-          "link": true,
-          "referenceElementId": "image1-83",
-          "outlineElementId": "image1-55",
+          "link": false,
+          "referenceElementId": "image1-73",
+          "outlineElementId": "image1-73",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
@@ -6222,10 +4506,10 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 954.4696655273438,
-          "cy": 515.6715698242188,
-          "width": 25.791078567504883,
-          "height": 14.519421577453613,
+          "cx": 952.6529541015625,
+          "cy": 535.1025390625,
+          "width": 25.791080474853516,
+          "height": 14.519421577453612,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6234,24 +4518,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1929.7825892049198,
+          "cy": -652.9996672473462,
+          "width": 976.1287248226508,
+          "height": 549.1099973894518,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6265,31 +4536,24 @@
         "layer1": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 0.9999999260461913,
-          "heightFactor": 1,
-          "deltaAngle": 0
-        },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
+          "widthFactor": 1,
+          "heightFactor": 0.9999999999999999,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 977.1296351033573,
+          "deltaY": -1188.1022063098462,
+          "widthFactor": 37.847531272463875,
+          "heightFactor": 37.81899950078821,
           "deltaAngle": 0
         }
       }
     },
     {
       "frameId": "frame7885",
-      "title": "Super Ventilagon, 2015",
+      "title": "2015: Super Ventilagon",
       "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 2000,
@@ -6304,18 +4568,10 @@
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
-          "referenceElementId": "image1-83",
-          "outlineElementId": "image1-55",
+          "referenceElementId": "image1-73",
+          "outlineElementId": "image1-73",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
@@ -6335,24 +4591,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1929.7825892049198,
+          "cy": -652.9996672473462,
+          "width": 976.1287248226508,
+          "height": 549.1099973894518,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6370,18 +4613,11 @@
           "heightFactor": 1.886163861678887,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 977.1296351033573,
+          "deltaY": -1188.1022063098462,
+          "widthFactor": 37.847531272463875,
+          "heightFactor": 37.81899950078821,
           "deltaAngle": 0
         }
       }
@@ -6389,8 +4625,8 @@
     {
       "frameId": "frame1467",
       "title": "Rotor y Base",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6405,18 +4641,10 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": true,
-          "referenceElementId": "image1-83",
-          "outlineElementId": "image1-55",
+          "referenceElementId": "image1-73",
+          "outlineElementId": "image1-73",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
@@ -6436,24 +4664,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 494.1623012315063,
-          "cy": 412.9936776418002,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 2.369723170201803,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
-          "cx": 2000.9600699431605,
-          "cy": -738.1622635867511,
-          "width": 1129.759949852755,
-          "height": 635.6634607279628,
+          "cx": 1929.7825892049198,
+          "cy": -652.9996672473462,
+          "width": 976.1287248226508,
+          "height": 549.1099973894518,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6471,18 +4686,11 @@
           "heightFactor": 1.2861372729109763,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 1.2577907334594443,
-          "deltaY": 9.118982817581468,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
-          "deltaX": 1178.718492794723,
-          "deltaY": -1252.7807938601886,
-          "widthFactor": 46.59505738903724,
-          "heightFactor": 17.921690898914516,
+          "deltaX": 977.1296351033573,
+          "deltaY": -1188.1022063098462,
+          "widthFactor": 37.847531272463875,
+          "heightFactor": 37.81899950078821,
           "deltaAngle": 0
         }
       }
@@ -6490,8 +4698,8 @@
     {
       "frameId": "frame1610",
       "title": "Esquema de hardware",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6502,16 +4710,8 @@
           "link": false,
           "referenceElementId": "image1-703",
           "outlineElementId": "image1-703",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
           "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
+          "transitionRelativeZoom": -0.1,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -6531,19 +4731,6 @@
           "height": 35.698246002197266,
           "opacity": 1,
           "angle": -90,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 495.8503887948331,
-          "cy": 413.0267773979437,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
-          "opacity": 1,
-          "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
@@ -6572,13 +4759,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 2.9458782967862476,
-          "deltaY": 9.152082573724954,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 1072.7795182970935,
           "deltaY": -1168.5174034149056,
@@ -6591,8 +4771,8 @@
     {
       "frameId": "frame1820",
       "title": "Recuerdos en la piel",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6605,14 +4785,6 @@
           "outlineElementId": "image1-721",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": true,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-55",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -6630,19 +4802,6 @@
           "cy": 484.5876159667969,
           "width": 37.84428787231445,
           "height": 21.287412643432617,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 495.8503887948331,
-          "cy": 413.0267773979437,
-          "width": 20.207401125712167,
-          "height": 11.369766235351562,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6673,13 +4832,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 2.9458782967862476,
-          "deltaY": 9.152082573724954,
-          "widthFactor": 2.369723170201803,
-          "heightFactor": 1.0000000838781007,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 1072.7795182970935,
           "deltaY": -1168.5174034149056,
@@ -6692,8 +4844,8 @@
     {
       "frameId": "frame8537",
       "title": "Brain activity: High",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6706,14 +4858,6 @@
           "outlineElementId": "image1-491",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-491",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -6731,19 +4875,6 @@
           "cy": 485.35706200740896,
           "width": 41.71194140973573,
           "height": 23.469372439384475,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 499.36140156902957,
-          "cy": 412.76640917880854,
-          "width": 7.251312976599319,
-          "height": 4.079977080199616,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6774,13 +4905,6 @@
           "heightFactor": 1.1025000000000007,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 6.456891070982692,
-          "deltaY": 8.891714354589794,
-          "widthFactor": 0.8503619178008874,
-          "heightFactor": 0.35884444217811906,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 1224.5496610850223,
           "deltaY": -1235.4560561546343,
@@ -6793,8 +4917,8 @@
     {
       "frameId": "frame5663",
       "title": "Retweet de Terry",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6807,14 +4931,6 @@
           "outlineElementId": "image1-69",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-69",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -6832,19 +4948,6 @@
           "cy": 508.4118347167969,
           "width": 37.84437561035156,
           "height": 21.10390281677246,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 478.4130927526454,
-          "cy": 423.64899296527005,
-          "width": 17.86374533452958,
-          "height": 10.051099954809024,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6875,13 +4978,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -14.491417745401463,
-          "deltaY": 19.774298141051304,
-          "widthFactor": 2.094882511732552,
-          "heightFactor": 0.8840200044416664,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 97.86492346110617,
           "deltaY": -650.8543206527959,
@@ -6894,8 +4990,8 @@
     {
       "frameId": "frame7045",
       "title": "Super Ventilagon: aprendizajes",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -6908,14 +5004,6 @@
           "outlineElementId": "rect162",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect162",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -6933,19 +5021,6 @@
           "cy": 537.1720581054688,
           "width": 40.414955139160156,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 480.7828400736711,
-          "cy": 476.6759998401849,
-          "width": 87.75886757698211,
-          "height": 49.377839496631196,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6976,13 +5051,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -12.121670424375793,
-          "deltaY": 72.80130501596614,
-          "widthFactor": 10.291487786780745,
-          "heightFactor": 4.342907551152813,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 229.06795299138184,
           "deltaY": 2285.0313426390358,
@@ -6996,12 +5064,12 @@
       "frameId": "frame8399",
       "title": "Game On! el arte en juego",
       "titleLevel": 0,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 3000,
       "showInFrameList": false,
-      "showFrameNumber": true,
+      "showFrameNumber": false,
       "layerProperties": {
         "layer1": {
           "link": false,
@@ -7011,17 +5079,9 @@
           "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect162",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
-          "referenceElementId": "image1-17",
+          "referenceElementId": "image1-558",
           "outlineElementId": "rect162",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": -3,
@@ -7030,65 +5090,45 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 1237.3147011809756,
-          "cy": 384.62281006586244,
-          "width": 85.478666911015,
+          "cx": 1237.1566676328857,
+          "cy": 384.3594208190481,
+          "width": 85.49614951604374,
           "height": 48.094876468359786,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1.177725424365719,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 874.3237397170939,
-          "cy": 195.41149381602352,
-          "width": 157.6023175026623,
-          "height": 88.67550542533087,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
+          "clipWidthFactor": 1.0002045259438466,
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
-          "cx": 23255.11170515463,
-          "cy": -12902.79617957726,
-          "width": 8811.265991643491,
+          "cx": 24297.69277714125,
+          "cy": -7934.245758391007,
+          "width": 8813.068124136918,
           "height": 4957.690201686387,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000002,
+          "clipWidthFactor": 1.0002045259438468,
           "clipHeightFactor": 1
         }
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -7.7404746002744105,
-          "deltaY": -10.531486809137562,
-          "widthFactor": 2.1762733182834806,
+          "deltaX": -7.898508148364272,
+          "deltaY": -10.794876055951875,
+          "widthFactor": 2.176718422637971,
           "heightFactor": 2.680754042419645,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 381.419229219047,
-          "deltaY": -208.46320100819523,
-          "widthFactor": 18.48203344606976,
-          "heightFactor": 7.799237999067086,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
-          "deltaX": 22010.05652937338,
-          "deltaY": -13297.95047645226,
-          "widthFactor": 224.33343629322945,
-          "heightFactor": 276.3360471042769,
+          "deltaX": 23052.63760136,
+          "deltaY": -8357.635284758195,
+          "widthFactor": 224.37931830102374,
+          "heightFactor": 190.07546619355696,
           "deltaAngle": 0
         }
       }
@@ -7097,7 +5137,7 @@
       "frameId": "frame6598",
       "title": "2019: Ventilastation",
       "titleLevel": 0,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -7110,14 +5150,6 @@
           "outlineElementId": "image1-558",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-558",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -7143,19 +5175,6 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 867.6770633562394,
-          "cy": 263.5379211794311,
-          "width": 139.22270427958128,
-          "height": 78.33415056516981,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.0000000000000004,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 22883.507820745563,
           "cy": -9093.968479126572,
@@ -7178,13 +5197,6 @@
           "heightFactor": 1.407100319759455,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 374.7725528581925,
-          "deltaY": -140.33677364478763,
-          "widthFactor": 16.3266550753864,
-          "heightFactor": 6.88968933170572,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 21638.452644964313,
           "deltaY": -9517.35800549376,
@@ -7197,8 +5209,8 @@
     {
       "frameId": "frame3972",
       "title": "Calidad grafica",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -7211,14 +5223,6 @@
           "outlineElementId": "image1-54",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-54",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -7236,19 +5240,6 @@
           "cy": 422.14710350043407,
           "width": 42.04686471415378,
           "height": 23.657818229830994,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 967.863195973873,
-          "cy": 264.5973599701481,
-          "width": 77.52441120273977,
-          "height": 43.6193861558413,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -7279,13 +5270,6 @@
           "heightFactor": 0.9070294121298572,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 474.9586854758261,
-          "deltaY": -139.27733485407066,
-          "widthFactor": 9.091292459653697,
-          "heightFactor": 3.8364368195124823,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 27198.00800961598,
           "deltaY": -9458.126662104964,
@@ -7298,8 +5282,8 @@
     {
       "frameId": "frame5177",
       "title": "Cortadora de plasma",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -7312,14 +5296,6 @@
           "outlineElementId": "image1-138",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-138",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -7345,22 +5321,9 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 889.5906549819139,
-          "cy": 355.1394951151811,
-          "width": 67.39026216086572,
-          "height": 37.91737109296867,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 24108.657854740526,
-          "cy": -3972.686977746023,
+          "cy": -3972.6869777460233,
           "width": 3767.6700099029013,
           "height": 2119.892953974851,
           "opacity": 1,
@@ -7380,13 +5343,6 @@
           "heightFactor": 0.9963199765418833,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 396.686144483867,
-          "deltaY": -48.73519970903766,
-          "widthFactor": 7.902860179549643,
-          "heightFactor": 3.334929979080023,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 22863.602678959276,
           "deltaY": -4443.937618615164,
@@ -7399,8 +5355,8 @@
     {
       "frameId": "frame8494",
       "title": "Nueva aspa!",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -7413,14 +5369,6 @@
           "outlineElementId": "image1-838",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-838",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -7446,23 +5394,10 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 1041.8278852177496,
-          "cy": 355.125646409408,
-          "width": 145.36734394674164,
-          "height": 81.79145396511998,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 32619.97133473655,
-          "cy": -3973.461234318767,
-          "width": 8127.23032446418,
+          "cy": -3973.4612343187673,
+          "width": 8127.230324464181,
           "height": 4572.815096565841,
           "opacity": 1,
           "angle": 0,
@@ -7481,13 +5416,6 @@
           "heightFactor": 1.0000000863303042,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 548.9233747197027,
-          "deltaY": -48.74904841481077,
-          "widthFactor": 17.047237346269483,
-          "heightFactor": 7.193768027641664,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 31333.242574970925,
           "deltaY": -4444.711875187908,
@@ -7500,8 +5428,8 @@
     {
       "frameId": "frame3038",
       "title": "Nueva aspa!",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -7514,14 +5442,6 @@
           "outlineElementId": "image1-954",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "image1-954",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -7539,19 +5459,6 @@
           "cy": 493.3663635253906,
           "width": 38.37782669067383,
           "height": 17.25877571105957,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 435.52315528754593,
-          "cy": 676.8859858782074,
-          "width": 558.3567281974549,
-          "height": 314.16140235188493,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -7582,13 +5489,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -57.38135521050094,
-          "deltaY": 273.01129105398866,
-          "widthFactor": 65.47852778376257,
-          "heightFactor": 27.631300609007862,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -2522.5057321685845,
           "deltaY": 13522.222192449739,
@@ -7601,8 +5501,8 @@
     {
       "frameId": "frame7540",
       "title": "Componentes Ventilastation",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -7615,14 +5515,6 @@
           "outlineElementId": "rect50",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect50",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
           "transitionPathId": ""
         },
         "__sozi_auto__": {
@@ -7640,19 +5532,6 @@
           "cy": 498.12744140625,
           "width": 40.414955139160156,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 1050.100464099951,
-          "cy": 746.1546260666281,
-          "width": 692.49641284443,
-          "height": 389.63557381173086,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -7683,13 +5562,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 557.1959536019042,
-          "deltaY": 342.27993124240936,
-          "widthFactor": 81.20909683487291,
-          "heightFactor": 34.26944744757761,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 31795.179181549684,
           "deltaY": 17390.1479078282,
@@ -7702,8 +5574,8 @@
     {
       "frameId": "frame9988",
       "title": "Comparacion CPUs",
-      "titleLevel": 1,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "titleLevel": 2,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -7718,14 +5590,6 @@
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect67",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": -3,
-          "transitionPathId": ""
-        },
         "__sozi_auto__": {
           "link": false,
           "referenceElementId": "rect67",
@@ -7738,7 +5602,7 @@
       "cameraStates": {
         "layer1": {
           "cx": 1330.9969482421875,
-          "cy": 498.1274719238281,
+          "cy": 498.12744140625,
           "width": 40.414955139160156,
           "height": 26.78102684020996,
           "opacity": 1,
@@ -7749,24 +5613,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 1685.8831382737721,
-          "cy": 746.1550700650675,
-          "width": 692.4964128444295,
-          "height": 389.63557381173064,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": 68627.95800597323,
-          "cy": 17888.30017239956,
-          "width": 38716.24598241183,
-          "height": 21783.833734575695,
+          "cy": 17888.27534923457,
+          "width": 38724.164459163585,
+          "height": 21783.83373457569,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -7779,23 +5630,16 @@
       "cameraOffsets": {
         "layer1": {
           "deltaX": 0,
-          "deltaY": 0.000030517578125,
+          "deltaY": 0,
           "widthFactor": 1,
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 1192.9786277757253,
-          "deltaY": 342.2803752408488,
-          "widthFactor": 81.20909683487285,
-          "heightFactor": 34.26944744757759,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 67296.96105773104,
-          "deltaY": 17390.17273099331,
-          "widthFactor": 957.9683028003077,
-          "heightFactor": 813.4054703932671,
+          "deltaY": 17390.14790782832,
+          "widthFactor": 958.1642321716132,
+          "heightFactor": 813.405470393267,
           "deltaAngle": 0
         }
       }
@@ -7804,7 +5648,7 @@
       "frameId": "frame9734",
       "title": "El pasado",
       "titleLevel": 0,
-      "notes": "<span style=\"font-size: 14.6667px;\">Universidad técnica de Moscú, dormitorios, segundo subsuelo, bunker antiaéreo</span>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 5000,
@@ -7816,14 +5660,6 @@
           "referenceElementId": "rect83",
           "outlineElementId": "rect67",
           "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
-          "outlineElementId": "rect67",
-          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         },
@@ -7850,24 +5686,11 @@
           "clipWidthFactor": 1.1779662997697296,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": -6357.53760931336,
-          "cy": 816.9326124632522,
-          "width": 32693.466393983585,
-          "height": 18391.33383715774,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1.000204525943847,
-          "clipHeightFactor": 1
-        },
         "__sozi_auto__": {
           "cx": -381065.42729908123,
           "cy": 21845.347011477275,
-          "width": 1827833.7092433986,
-          "height": 1028226.8493772169,
+          "width": 1827833.7092433984,
+          "height": 1028226.8493772168,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -7885,13 +5708,6 @@
           "heightFactor": 68.98173256269163,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": -6850.442119811407,
-          "deltaY": 413.05791763903346,
-          "widthFactor": 3833.9648105197134,
-          "heightFactor": 1617.5649524441799,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": -381940.9960857023,
           "deltaY": 21455.25173559837,
@@ -7905,7 +5721,7 @@
       "frameId": "frame8803",
       "title": "El futuro",
       "titleLevel": 0,
-      "notes": "<br>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 2000,
@@ -7915,14 +5731,6 @@
         "layer1": {
           "link": false,
           "referenceElementId": "rect285",
-          "outlineElementId": "rect67",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
           "outlineElementId": "rect67",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -7939,10 +5747,10 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 1958.449302397525,
+          "cx": 1958.4494244678374,
           "cy": 374.6370769786035,
-          "width": 114.57301725667476,
-          "height": 64.4517342916476,
+          "width": 114.57303076634456,
+          "height": 60.20152610348957,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -7951,24 +5759,11 @@
           "clipWidthFactor": 1,
           "clipHeightFactor": 1
         },
-        "layer2": {
-          "cx": 10814.65028785026,
-          "cy": -1050.49937421024,
-          "width": 1666.9160442765044,
-          "height": 937.7044660655874,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1.0000000000000002
-        },
         "__sozi_auto__": {
-          "cx": 579001.1352870563,
+          "cx": 579001.1354091266,
           "cy": -82559.46261707036,
-          "width": 93194.31899604098,
-          "height": 52425.39324915922,
+          "width": 93194.3299848803,
+          "height": 48968.25065860124,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -7986,13 +5781,6 @@
           "heightFactor": 3.285184366699277,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 10321.745777352213,
-          "deltaY": -1454.3740690344587,
-          "widthFactor": 195.47934681600245,
-          "heightFactor": 82.47351135530734,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 577040.2400233845,
           "deltaY": -82949.55789294926,
@@ -8005,8 +5793,8 @@
     {
       "frameId": "frame1097",
       "title": "El futuro",
-      "titleLevel": 0,
-      "notes": "<br>",
+      "titleLevel": 1,
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -8016,14 +5804,6 @@
         "layer1": {
           "link": false,
           "referenceElementId": "rect240-38",
-          "outlineElementId": "rect240-38",
-          "transitionTimingFunction": "linear",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
           "outlineElementId": "rect240-38",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -8044,19 +5824,6 @@
           "cy": 421.14910888671875,
           "width": 40.414955139160156,
           "height": 26.78102684020996,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 10332.681663294992,
-          "cy": -373.79857592502015,
-          "width": 692.6380463268756,
-          "height": 389.6355738117297,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -8087,13 +5854,6 @@
           "heightFactor": 1,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 9839.777152796945,
-          "deltaY": -777.6732707492389,
-          "widthFactor": 81.22570620205178,
-          "heightFactor": 34.26944744757751,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 550129.8025809719,
           "deltaY": -45147.4705327901,
@@ -8107,7 +5867,7 @@
       "frameId": "frame2071",
       "title": "Agradecimientos",
       "titleLevel": 0,
-      "notes": "<br>",
+      "notes": "<div><br></div>",
       "timeoutMs": 0,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -8117,14 +5877,6 @@
         "layer1": {
           "link": false,
           "referenceElementId": "rect61-5",
-          "outlineElementId": "rect61-5",
-          "transitionTimingFunction": "easeInOut",
-          "transitionRelativeZoom": 0,
-          "transitionPathId": ""
-        },
-        "layer2": {
-          "link": false,
-          "referenceElementId": "image1",
           "outlineElementId": "rect61-5",
           "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
@@ -8144,20 +5896,7 @@
           "cx": 2037.5180178534695,
           "cy": 390.0952758789062,
           "width": 47.607455160636114,
-          "height": 26.781026840209964,
-          "opacity": 1,
-          "angle": 0,
-          "clipped": false,
-          "clipXOffset": 0,
-          "clipYOffset": 0,
-          "clipWidthFactor": 1,
-          "clipHeightFactor": 1
-        },
-        "layer2": {
-          "cx": 11965.016347413619,
-          "cy": -825.5989536792356,
-          "width": 692.6380463268757,
-          "height": 389.63557381172984,
+          "height": 26.781026840209968,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -8188,13 +5927,6 @@
           "heightFactor": 1.0000000000000002,
           "deltaAngle": 0
         },
-        "layer2": {
-          "deltaX": 11472.111836915572,
-          "deltaY": -1229.4736485034543,
-          "widthFactor": 81.2257062020518,
-          "heightFactor": 34.26944744757753,
-          "deltaAngle": 0
-        },
         "__sozi_auto__": {
           "deltaX": 641274.934999326,
           "deltaY": -70375.77434501586,
@@ -8208,12 +5940,10 @@
   "elementsToHide": [],
   "customFiles": [],
   "selectedFrames": [
-    "frame2071"
+    "frame8372"
   ],
   "selectedLayers": [
-    "layer1",
-    "layer2",
-    "__sozi_auto__"
+    "layer1"
   ],
   "editableLayers": [
     "layer1"
