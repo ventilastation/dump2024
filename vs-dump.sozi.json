@@ -1148,16 +1148,16 @@
       },
       "cameraStates": {
         "layer1": {
-          "cx": 1742.9176025390625,
-          "cy": 585.2587890625,
-          "width": 38.33538055419922,
-          "height": 28.601318359375,
+          "cx": 1740.6031204520825,
+          "cy": 589.2783355828453,
+          "width": 71.54163939507144,
+          "height": 40.2449271520026,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
           "clipXOffset": 0,
           "clipYOffset": 0,
-          "clipWidthFactor": 1,
+          "clipWidthFactor": 1.3262763199414607,
           "clipHeightFactor": 1
         },
         "__sozi_auto__": {
@@ -1176,10 +1176,10 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1,
+          "deltaX": -2.3144820869799787,
+          "deltaY": 4.0195465203453296,
+          "widthFactor": 1.866203970348609,
+          "heightFactor": 1.4071004226562527,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
@@ -3705,7 +3705,7 @@
         "layer1": {
           "cx": 825.2084350585938,
           "cy": 474.5326843261719,
-          "width": 40.52675247192383,
+          "width": 40.52675247192382,
           "height": 30.395067214965824,
           "opacity": 1,
           "angle": 0,
@@ -4143,7 +4143,7 @@
         "layer1": {
           "cx": 822.6646840585342,
           "cy": 530.9344917453826,
-          "width": 72.99009095748345,
+          "width": 72.99009095748346,
           "height": 41.05973693418508,
           "opacity": 1,
           "angle": 0,
@@ -4290,7 +4290,7 @@
           "cx": 946.8330292752395,
           "cy": 401.678367516547,
           "width": 49.98782791866821,
-          "height": 28.120078182220624,
+          "height": 28.120078182220627,
           "opacity": 1,
           "angle": 0,
           "clipped": false,
@@ -6086,11 +6086,10 @@
   "elementsToHide": [],
   "customFiles": [],
   "selectedFrames": [
-    "frame2071"
+    "frame3320"
   ],
   "selectedLayers": [
-    "layer1",
-    "__sozi_auto__"
+    "layer1"
   ],
   "editableLayers": [
     "layer1"
