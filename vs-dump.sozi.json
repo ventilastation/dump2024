@@ -24,7 +24,7 @@
   "exportToVideoBitRate": 2000000,
   "frames": [
     {
-      "frameId": "frame4329",
+      "frameId": "start",
       "title": "Ventilastation Braindump 2025",
       "titleLevel": 0,
       "notes": "",
@@ -1176,7 +1176,7 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -0.0003662109375,
+          "deltaX": -0.00048828125,
           "deltaY": -0.00000762939453125,
           "widthFactor": 1.000000000000001,
           "heightFactor": 1.0000000000000004,
@@ -1541,7 +1541,7 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 0.86407470703125,
+          "deltaX": 0.864013671875,
           "deltaY": 36.505615234375,
           "widthFactor": 1.067499067637261,
           "heightFactor": 0.8278828525360771,
@@ -3439,14 +3439,14 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": -3.139221028323391,
+          "deltaX": -3.139343098635891,
           "deltaY": 4.582655428091357,
           "widthFactor": 3.3189151145901956,
           "heightFactor": 1.2762815625000021,
           "deltaAngle": 0
         },
         "__sozi_auto__": {
-          "deltaX": 338.49601786655126,
+          "deltaX": 338.49589579623876,
           "deltaY": 2092.8766174237976,
           "widthFactor": 134.73438921451728,
           "heightFactor": 51.811815262536584,
@@ -3512,7 +3512,7 @@
       },
       "cameraOffsets": {
         "layer1": {
-          "deltaX": 55.77253069068047,
+          "deltaX": 55.77240862036797,
           "deltaY": -8.024710180091233,
           "widthFactor": 2.2158087597082887,
           "heightFactor": 0.8522586950569357,
@@ -5864,7 +5864,7 @@
       }
     },
     {
-      "frameId": "frame5542",
+      "frameId": "links",
       "title": "Links",
       "titleLevel": 0,
       "notes": "<div><br></div>",
@@ -5940,7 +5940,7 @@
   "elementsToHide": [],
   "customFiles": [],
   "selectedFrames": [
-    "frame1325"
+    "links"
   ],
   "selectedLayers": [
     "layer1"
